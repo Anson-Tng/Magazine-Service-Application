@@ -34,7 +34,8 @@ o View.java
 
 • After selecting, the main menu will pop up, and there are three modes for the user to choose, view mode, create mode, and edit mode. (Data will only show after pressing the view mode)
 
-If view mode is selected, users can press any email or supplement name from the left lists to check the selected detail information.
+• If view mode is selected, users can press any email or supplement name from the left lists to check the selected detail information.
+
 • If create mode is selected, the application will pop up another window to ask user wants to create which type of data, is supplement or customer; if the customer is chosen, then to ask is the associate customer or paying customer, if paying customer is chosen then to ask paying by credit card or bank transfer. After deciding what type to be adding, the user can start filling in the information and press submit to store it in the database.
 
 • If edit mode is selected, the application will have a text field or button to fill in the new information when the user selected any of the existing supplements or customers from the list, then press the change button to make the changes, and the database will be updated after back to view mode.
