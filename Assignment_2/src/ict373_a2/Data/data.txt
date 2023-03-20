@@ -1,0 +1,14 @@
+5
+2020-04-10,Games,8
+2020-04-10,Tvs,7
+2020-04-10,Movies,5
+2020-04-10,Sports,9
+2020-04-10,Fishing,6
+
+2020-04-11,AC,Bryan,bryanhey@gmail.com,10,Antonas Road,Northbridge,6003,0,lisalolisa@gmail.com
+2020-04-11,AC,John,johnie@gmail.com,50,Baker Avenue,Perth,6000,2,Games,Sports,sally00@gmail.com
+2020-04-11,AC,Billy,billyjelly@gmail.com,3,Baker Avenue,Perth,6000,1,Games,sally00@gmail.com
+2020-04-11,PC,Jane,jane1991@gmail.com,12A,Aberdeen Road,Perth,6000,1,Movies,Credit card,Jane Legend,5432-4321-5434-5450,06/25,0
+2020-04-11,PC,Sally,sally00@gmail.com,14,Adelaide Terrace,East Perth,6004,2,Movies,Tvs,Bank transfer,Sally Tyoop,CommonWealth Bank,636-123 423242,2,johnie@gmail.com,billyjelly@gmail.com
+2020-04-11,PC,Lisa,lisalolisa@gmail.com,29,Amy Street,Perth,6000,3,Sports,Movies,Tvs,Credit card,Lisa Ay,4321-4321-1212-4340,04/24,1,bryanhey@gmail.com
+
