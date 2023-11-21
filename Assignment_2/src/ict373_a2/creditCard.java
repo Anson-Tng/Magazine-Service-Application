@@ -6,7 +6,6 @@ import java.io.Serializable;
  * Assignment 2
  * @author Anson Ting Lik Yuan
  * Unit 			: ICT 373
- * Student Number               : 34212178
  * Date 			: 26 May 2022
  */
 
